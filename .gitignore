@@ -1,0 +1,20 @@
+# Ignorar arquivos e diretórios temporários
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.DS_Store
+
+# Ignorar ambientes virtuais
+reciclai-env/
+venv/
+.env
+
+# Ignorar arquivos grandes e dados sensíveis
+*.log
+*.csv
+*.xlsx
+*.db
+
+# Ignorar o modelo treinado (será gerenciado pelo Git LFS)
+models/*.pth
