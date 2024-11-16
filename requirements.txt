@@ -1,0 +1,8 @@
+torch           # Biblioteca principal de deep learning
+torchvision    # Para manipulação de imagens e datasets
+pandas           # Manipulação de dados
+scikit-learn     # Para métricas e pré-processamento
+# opencv-python==4.8.1     # Manipulação de imagens
+matplotlib      # Visualização de dados
+tensorboard     # Monitoramento do treinamento
+pip install -r requirements.txt
